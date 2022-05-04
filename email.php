@@ -1,3 +1,3 @@
 <?php
-$emailku = 'YOUREMAIL';
+$emailku = 'ytzews2003@gmail.com';
 ?>
